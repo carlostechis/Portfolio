@@ -5,7 +5,7 @@ Common
 ********************************************/
 
 body {
-  font-family: "monospace", sans-serif;
+  font-family: "futura", sans-serif;
 }
 
 .font-primary {
@@ -13,6 +13,8 @@ body {
 }
 
 .title-icon {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
+  font-style: italic;
+  font-stretch: expanded;
 }
