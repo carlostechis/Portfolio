@@ -11,3 +11,8 @@ body {
 .font-primary {
   color: darkmagenta;
 }
+
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
