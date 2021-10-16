@@ -19,6 +19,20 @@ body {
   font-stretch: extra-expanded;
 }
 
+p {
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a.font-black {
+  color: #000000 !important;
+}
+
 /**************
 About
 ******************/
@@ -63,4 +77,21 @@ About
 
 #about .icons a {
   color: #731180;
+}
+
+/**************
+PROJECTS
+******************/
+
+#projects {
+  margin: 60px auto;
+  width: 80%;
+}
+
+#projects h2 {
+  text-align: center;
+}
+
+#projects .card img {
+  width: 100%;
 }
